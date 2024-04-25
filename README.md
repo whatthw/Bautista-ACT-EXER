@@ -7,7 +7,7 @@ This repository contains activities and exercises for the CSST104 course on Adva
 ## Activities
 
 ### Activity 1 - Introduction to Advance Machine Learning
-
+[Activity 1 Notebook](Activity1/Activity1.ipynb)
 - Dataset: hardwarestore.csv
 - Topics Covered: Data loading, initial analysis, category analysis, cost and price analysis, location analysis, reporting, and insights.
 
